@@ -50,12 +50,12 @@
     "node-fetch": "^2.6.6",
     "open": "^8.4.0",
     "path": "^0.12.7",
-    "simple-git": "^2.47.0",
+    "simple-git": "^3.7.1",
     "telegraf": "^4.4.2",
     "twitter-api-v2": "^1.7.1",
     "util": "^0.12.4",
     "web3": "^1.6.1",
-    "workbox-webpack-plugin": "5.1.4",
+    "workbox-webpack-plugin": "^6.5.3",
     "ws": "^8.4.0"
   },
   "optionalDependencies": {

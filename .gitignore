@@ -46,3 +46,8 @@ models
 Bitcoin-Factory/Test-Client/notebooks/parameters.csv
 Bitcoin-Factory/Test-Client/notebooks/time-series.csv
 Bitcoin-Factory/Test-Client/notebooks/ray_results/
+
+package.json
+package-lock.json
+#Projects/Foundations/Schemas/Docs-Topics/T/TS/TS-Dataset-Type-Standard-Converter-Error/ts-dataset-type-standard-converter-error-001-ts-dataset-type-standard-convertert-error-only-one-data-dependency-expected.json
+#Projects/Foundations/Schemas/Docs-Topics/T/TS/TS-Dataset-Type-Standard-Converter-Error/ts-dataset-type-standard-converter-error-002-ts-dataset-type-standard-convertert-error-only-one-output-dataset-expected.json
