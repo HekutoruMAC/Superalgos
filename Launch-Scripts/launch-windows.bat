@@ -1,3 +1,4 @@
 cd /d %~dp0
 cd ..
-cmd /k "node platform minMemo"
+rem cmd /k "node platform minMemo"
+cmd /k "node platform"
